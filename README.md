@@ -1,4 +1,4 @@
-# Exemple 04: Classe Router, GET, POST, PUT i DELETE
+Classe Router, GET, POST, PUT i DELETE
 
 ## Objectiu
 Aprendre **Classe Router, GET, POST, PUT i DELETE** sense canviar l'arquitectura que ja coneixem.
@@ -18,4 +18,3 @@ Navegador → Apache `.htaccess` → `index.php` → `autoload.php` → router �
 - GET `/products/1` a partir de l'exemple 03.
 - A l'exemple 04: POST `/products`, PUT `/products/1` i DELETE `/products/1` (respostes didàctiques, sense persistència).
 
-**Important:** Cada carpeta s'ha d'executar com a arrel web del seu propi servidor Apache.
